@@ -2,7 +2,7 @@
 Neon Cyber landing page with customizable data. Mostly HTML and CSS
 <br>
 <br>
-Live App: https://cybernotice-css-web.vercel.app
+Live App: https://cybernotice-css-web.vercel.app/
 <br>
 <br>
 
